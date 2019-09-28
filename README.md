@@ -70,7 +70,7 @@ You can input a sentence into command and then the model can return all entitys 
 
 <b>5.Result Demonstration</b>
 The result of our pretrain model is shown as follow:
-
+![Alt text](https://github.com/wjn1996/Mathematical-Knowledge-Entity-Recognition/blob/master/images/evaluation.png)
 The demonstration of our demo is shown:
-
+![Alt text](https://github.com/wjn1996/Mathematical-Knowledge-Entity-Recognition/blob/master/images/demo.png)
  

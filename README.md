@@ -1,7 +1,7 @@
 # Mathematical-Knowledge-Entity-Recognition
 <b>1.Introduction</b>
 
-This is a novel project for mathematical knowledge entity recognition. The algorithm is mainly model by BiLSTM+CRF with Chinese Word Embeddings. This project is the first process for Mathematical Knowledge Graph(Math-KG).
+This is a novel project for mathematical knowledge entity recognition. The algorithm is mainly modeled by BiLSTM+CRF with Chinese Word Embeddings. To the best of our knowledge, this project is the first for Mathematical Knowledge Graph(Math-KG).
 
 <b>2.Copyright Notice</b>
 
